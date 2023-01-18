@@ -1,7 +1,7 @@
 ![uoe-logo](http://portal.uoeld.ac.ke/assets/images/logo_c330_f0de.png)
 
 # Second Semester 
-Computer Science is a rapidly growing and ever-evolving field that touches virtually every aspect of modern society. From the development of cutting-edge technology to the creation of innovative software solutions, computer scientists play a critical role in shaping the world we live in. As a computer science student, you will have the opportunity to learn about a wide range of topics including programming, algorithms, data structures, artificial intelligence, computer networks, and more. You will also have the opportunity to apply your knowledge to real-world problems and make a positive impact on society. I am excited to embark on this journey and to see where a degree in computer science will take me. 
+Computer Science is a rapidly growing and ever-evolving field that touches virtually every aspect of modern society. From the development of cutting-edge technology to the creation of innovative software solutions, computer scientists play a critical role in shaping the world we live in. As a computer science student, I will have the opportunity to learn about a wide range of topics including programming, algorithms, data structures, artificial intelligence, computer networks, and more. I will also have the opportunity to apply my knowledge to real-world problems and make a positive impact on society. I am excited to embark on this journey and to see where a degree in computer science will take me. 
 For the second semester in my second year, the following Units of Computer science are covered. 
 
 ## Units
